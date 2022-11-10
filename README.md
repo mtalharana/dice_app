@@ -1,16 +1,24 @@
-# dice_app
+Project Name:
 
-A new Flutter project.
+3. Dice app
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Project Description:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The dice app was implemented to add life /State in the app and make the stateful widgets. The dice app changes the dies on Tap. This uses the setstate() method and invokes the build method to rerender the screen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Code:
+
+https://github.com/mtalharana/dice_app
+
+
+Stay Tuned for my Thrilling, Consistent, and problem-solving flutter journey.
+
+Please react with Love, Comment, Repost, or send it to those you care much, about this fantastic journey.
+
+ #flutter  #lahorejobs  #hr #ui
+
+#flutterdev #fluttercommunity #flutterjobs
