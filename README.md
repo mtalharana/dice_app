@@ -1,10 +1,8 @@
-Project Name:
 
-3. Dice app
-
+# 3. Dice app
 
 
-Project Description:
+
 
 The dice app was implemented to add life /State in the app and make the stateful widgets. The dice app changes the dies on Tap. This uses the setstate() method and invokes the build method to rerender the screen.
 
